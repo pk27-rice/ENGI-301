@@ -143,7 +143,7 @@ class finger_aug():
         # Read raw value from ADC
         value = ADC.read_raw(self.analog_in)
        
-        # Divide raw value by 8
+        # Divide raw value by 16
         value = int(value // 16)
        
         
