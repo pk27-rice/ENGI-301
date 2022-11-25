@@ -31,7 +31,7 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------
 
-Use the following hardware components to make a programmable combination lock: 
+Use the following hardware components to make a 6 finger augmentation: 
   - HT16K33 Display
   - Button
   - Red LED
