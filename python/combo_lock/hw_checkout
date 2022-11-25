@@ -1,0 +1,25 @@
+#!/bin/bash
+
+# Green LED
+cd /sys/class/gpio/gpio58
+echo "out" > direction
+echo "1" > value
+sleep 1
+echo "0" > value
+
+
+# Red LED
+cd /sys/class/gpio/gpio57
+echo "out" > direction
+echo "1" > value
+sleep 1
+echo "0" > value
+
+# Hex Display
+i2cdetect -r -y 1
+
+
+# Potentiometer
+
+
+# Servo
