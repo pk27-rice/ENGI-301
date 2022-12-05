@@ -1,4 +1,3 @@
-"""
 --------------------------------------------------------------------------
 PCB for 6 Finger Augmentation with BeagleBone
 --------------------------------------------------------------------------
@@ -68,4 +67,3 @@ optimizing servo location/ wiring to increase usability, and modifying phalanx/f
 **Credit**      
      -Special thanks to Eric Welsh who guided learning and project development
      
-"""
