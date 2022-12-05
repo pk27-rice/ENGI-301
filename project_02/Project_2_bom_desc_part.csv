@@ -1,0 +1,21 @@
+"Part;""Value"";""Device"";""Package"";""Description"";"""";",
+"D1;"" LTST-C191TGKT"";""LED"";""EIA-STD"";""EIA-STD LED"," LTST-C191TBKT"";"""";"
+"D2;""LTST-C191TRKT"";""LED"";""EIA-STD"";""EIA-STD LED"," LTST-C191TBKT"";"""";"
+"FUD1;""FIDUCIAL"";""FIDUCIAL"";""FIDUCIAL_40MIL"";"""";"""";",
+"FUD2;""FIDUCIAL"";""FIDUCIAL"";""FIDUCIAL_40MIL"";"""";"""";",
+"FUD3;""FIDUCIAL"";""FIDUCIAL"";""FIDUCIAL_40MIL"";"""";"""";",
+"FUD4;""FIDUCIAL"";""FIDUCIAL"";""FIDUCIAL_40MIL"";"""";"""";",
+"FUD5;""FIDUCIAL"";""FIDUCIAL"";""FIDUCIAL_40MIL"";"""";"""";",
+"FUD6;""FIDUCIAL"";""FIDUCIAL"";""FIDUCIAL_40MIL"";"""";"""";",
+"MGT1;""MOUNTING_HOLE"";""MOUNTING_HOLE"";""MOUNTING_HOLE"";""Chassis Mounting Hole w/GND connection ability"";"""";",
+"MGT2;""MOUNTING_HOLE"";""MOUNTING_HOLE"";""MOUNTING_HOLE"";""Chassis Mounting Hole w/GND connection ability"";"""";",
+"MGT3;""MOUNTING_HOLE"";""MOUNTING_HOLE"";""MOUNTING_HOLE"";""Chassis Mounting Hole w/GND connection ability"";"""";",
+"MGT4;""MOUNTING_HOLE"";""MOUNTING_HOLE"";""MOUNTING_HOLE"";""Chassis Mounting Hole w/GND connection ability"";"""";",
+"R1;""3386MP-102"";""POTENTIOMETER"";""POT-PO90S"";""Potentiometer - Examples:"";"""";",
+"R2;""1k"";""R_R0603"";""R0603"";""RESISTOR"," American symbol"";"""";"
+"R3;""1k"";""R_R0603"";""R0603"";""RESISTOR"," American symbol"";"""";"
+"R4;""1k"";""R_R0603"";""R0603"";""RESISTOR"," American symbol"";"""";"
+"SW1;""LYSB01E38OS7K"";""PUSH_BUTTON"";""BUTTON_12.5MM"";"""";"""";",
+"U1;""POCKETBEAGLE"";""POCKETBEAGLE"";""POCKETBEAGLE"";"""";"""";",
+"U2;""ADA1001"";""0.56_HEX_BACKPACK"";""0.56_HEX_BACKPACK"";""0.56"" LED HEX Backback - Adafruit HT16K33 -"";"""";",
+"U4;""SG90"";""SERVO_SG90"";""SERVO-X1"";"""";"""";",
